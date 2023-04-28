@@ -49,6 +49,7 @@ pipeline {
             agent any
             steps {
                 echo 'nom-de-la-branche'
+                echo 'test'
             }
         }
     }
